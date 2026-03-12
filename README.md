@@ -12,3 +12,17 @@ Atualmente focado em estudos de:
 
 - SQL Practice → Exercícios e práticas em SQL.
 - Modelando DBs → Modelagem para cenários diferentes de negócio.
+
+English version:
+Student of Systems Analysis and Development.
+
+Currently focused on studies of:
+
+- SQL
+- Python
+- Database
+
+## Study repositories
+
+- SQL Practice → Exercises and practices in SQL.
+- Modeling DBs → Modeling for different business scenarios.
