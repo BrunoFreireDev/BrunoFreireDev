@@ -15,7 +15,7 @@ Atualmente desenvolvendo habilidades práticas em:
 * 📦 **SQL_Practice**
   Exercícios práticos focados em consultas SQL, filtros, ordenações e análise de dados.
 
-* 🏢 **database_comercio / Modelando_DBs**
+* 🏢 **database_comercio**
   Modelagem completa de banco de dados simulando cenários reais, incluindo:
 
   * Criação de tabelas
@@ -53,15 +53,51 @@ Atuar na área de dados, aplicando boas práticas de modelagem e análise para g
 
 ## 🌎 English version
 
-Systems Analysis and Development student.
+Systems Analysis and Development Student
 
-Currently focused on:
+Currently developing practical skills in:
 
-* SQL (data modeling and queries)
-* Python (automation and ETL basics)
-* Databases
+* SQL (modeling, queries, data analysis)
+* Python (base for automation and ETL)
+* Database (data structuring and organization)
 
-### Study Projects
+---
 
-* **SQL_Practice** → SQL exercises and data analysis queries
-* **Modelando_DBs** → Database modeling for real-world scenarios
+## 📂 Featured Projects
+
+* 📦 **SQL_Practice**
+  Practical exercises focused on SQL queries, filters, ordering, and data analysis.
+
+* 🏢 **database_comercio**
+  Complete database modeling simulating real-world scenarios, including:
+
+  * Creating tables
+  * Relationships (FKs)
+  * Inserts for testing
+  * Framework ready for analytical queries
+
+---
+
+## 🧠 Technologies and Tools
+
+* 🗄️ MySQL
+* 🐍 Python (evolving)
+* 🔄 Git & GitHub
+* 💻 VS Code
+* 🛠️ WampServer
+* 📊 dbdiagram.io
+* 📐 BR Model
+
+---
+
+## 📚 Currently studying
+
+* Data modeling (normalization, relationships)
+* Advanced queries (JOINs, aggregations, subqueries)
+* ETL Fundamentals with Python
+
+---
+
+## 📈 Objective
+
+Work in the data area, applying good modeling and analysis practices to generate value from information.
