@@ -1,7 +1,6 @@
 # Bruno Freire Silva
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas
-🎯 Focado em transição para **Analista de Dados Jr / Desenvolvedor SQL Jr**
+Estudante de Análise e Desenvolvimento de Sistemas
 
 Atualmente desenvolvendo habilidades práticas em:
 
