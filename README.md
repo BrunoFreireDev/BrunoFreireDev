@@ -27,13 +27,20 @@ Atualmente desenvolvendo habilidades práticas em:
 
 ## 🧠 Tecnologias e Ferramentas
 
-* 🗄️ MySQL
-* 🐍 Python (em evolução)
-* 🔄 Git & GitHub
-* 💻 VS Code
-* 🛠️ WampServer
-* 📊 dbdiagram.io
-* 📐 BR Modelo
+*  MySQL
+*  Python (em evolução)
+*  Git & GitHub
+*  VS Code
+*  WampServer
+*  dbdiagram.io
+*  BR Modelo
+
+##   Sistemas/ERPs
+
+* Solpen (Compras e Estoque)
+* Promob (Compras)
+* Protheus (Estoque)
+* ERP2 (Administrativo, Financeiro, CRM, Faturamento, Frente de Caixa – suporte técnico ativo)
 
 ---
 
@@ -80,13 +87,20 @@ Currently developing practical skills in:
 
 ## 🧠 Technologies and Tools
 
-* 🗄️ MySQL
-* 🐍 Python (evolving)
-* 🔄 Git & GitHub
-* 💻 VS Code
-* 🛠️ WampServer
-* 📊 dbdiagram.io
-* 📐 BR Model
+*  MySQL
+*  Python (evolving)
+*  Git & GitHub
+*  VS Code
+*  WampServer
+*  dbdiagram.io
+*  BR Model
+
+## Systems/ERPs
+
+* Solpen (Purchasing and Inventory)
+* Promob (Shopping)
+* Protheus (Stock)
+* ERP2 (Administrative, Financial, CRM, Billing, Cash Front – active technical support)
 
 ---
 
