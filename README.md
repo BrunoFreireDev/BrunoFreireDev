@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas
 Atualmente desenvolvendo habilidades práticas em:
 
 * SQL (modelagem, consultas, análise de dados)
-* Python (base para automação e ETL)
+* Python (lógica de programação)
 * Banco de Dados (estruturação e organização de dados)
 
 ---
@@ -48,7 +48,7 @@ Atualmente desenvolvendo habilidades práticas em:
 
 * Modelagem de dados (normalização, relacionamentos)
 * Queries avançadas (JOINs, agregações, subqueries)
-* Fundamentos de ETL com Python
+* Fundamentos de lógica com Python
 
 ---
 
@@ -65,7 +65,7 @@ Systems Analysis and Development Student
 Currently developing practical skills in:
 
 * SQL (modeling, queries, data analysis)
-* Python (base for automation and ETL)
+* Python (logic)
 * Database (data structuring and organization)
 
 ---
@@ -108,7 +108,7 @@ Currently developing practical skills in:
 
 * Data modeling (normalization, relationships)
 * Advanced queries (JOINs, aggregations, subqueries)
-* ETL Fundamentals with Python
+* Logic with Python
 
 ---
 
