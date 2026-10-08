@@ -2,11 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,55:0f172a,100:020617&height=200&section=header&text=Bruno%20Freire%20Silva&fontSize=46&fontColor=38bdf8&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=900&color=38bdf8&center=true&vCenter=true&width=700&lines=Transformando+dados+em+insights+e+solu%C3%A7%C3%B5es;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Foco+em+SQL,+Automa%C3%A7%C3%B5es+e+Banco+de+Dados"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=900&color=38bdf8&center=true&vCenter=true&width=700&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Foco+em+SQL,+Banco+de+Dados+e+Dados;Transformando+dados+em+insights+e+solu%C3%A7%C3%B5es"/>
 
 <br>
 
-<a href="https://www.linkedin.com/in/bruno-freire-log"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/BrunoFreireDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:brunofreiresilva2001@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-freire-log)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoFreireDev)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunofreiresilva2001@gmail.com)
 
 <br><br>
 
@@ -14,28 +16,29 @@
 
 ---
 
-## 📂 Projetos em Destaque
+## 🇧🇷 Português
+
+Atualmente desenvolvendo habilidades práticas em:
+* **SQL:** modelagem, consultas, análise de dados
+* **Python:** lógica de programação
+* **Banco de Dados:** estruturação e organização de dados
+
+### 📂 Projetos em Destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### SQL_Practice
-Exercícios práticos focados em consultas SQL, filtros, ordenações e análise de dados para consolidar a lógica de manipulação de bases.
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
+### 📦 SQL_Practice
+Exercícios práticos focados em consultas SQL, filtros, ordenações e análise de dados.
 
 [Ver Repositório](https://github.com/BrunoFreireDev/SQL_Practice)
 
 </td>
 <td width="50%" valign="top">
 
-### database_comercio
-Modelagem completa de banco de dados simulando cenários reais, estruturando tabelas, relacionamentos (FKs), inserts e consultas analíticas.
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
-![Modelagem de Dados](https://img.shields.io/badge/Modelagem-2496ED?style=flat-square)
+### 🏢 database_comercio
+Modelagem completa de banco de dados simulando cenários reais, incluindo criação de tabelas, relacionamentos (FKs), inserts e estrutura analítica.
 
 [Ver Repositório](https://github.com/BrunoFreireDev/database_comercio)
 
@@ -43,42 +46,73 @@ Modelagem completa de banco de dados simulando cenários reais, estruturando tab
 </tr>
 </table>
 
----
-
-## 🧠 Tecnologias e Ferramentas
+### 🧠 Tecnologias e Ferramentas
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=mysql,py,git,github,vscode,docker&theme=dark"/>
-
 </div>
 
-* **Banco de Dados & Linguagens:** MySQL, SQL Server, Firebird, SQL, Python (evolução constante)
-* **Ferramentas:** Git, GitHub, VS Code, WampServer, dbdiagram.io, BR Modelo, Docker, n8n
-* **Sistemas/ERPs:** Solpen, Promob, Protheus, ERP2 (Administrativo, Financeiro, CRM, Faturamento, Frente de Caixa – suporte técnico ativo)
+* **Bancos de Dados & Linguagens:** MySQL, SQL Server, Firebird, SQL, Python
+* **Ferramentas:** Git, GitHub, VS Code, WampServer, dbdiagram.io, BR Modelo, n8n, Docker
+* **Sistemas/ERPs:** 
+  * Solpen (Compras e Estoque)
+  * Promob (Compras)
+  * Protheus (Estoque)
+  * ERP2 (Administrativo, Financeiro, CRM, Faturamento, Frente de Caixa – suporte técnico ativo)
+
+### 📚 Atualmente estudando
+* Modelagem de dados (normalização, relacionamentos)
+* Queries avançadas (JOINs, agregações, subqueries)
+* Fundamentos de lógica com Python
+
+### 📈 Objetivo
+Atuar na área de dados, aplicando boas práticas de modelagem e análise para gerar valor a partir de informações.
 
 ---
 
-## 📚 Atualmente Estudando & Objetivos
+## 🌎 English version
+
+Systems Analysis and Development Student
+Currently developing practical skills in:
+* **SQL:** modeling, queries, data analysis
+* **Python:** logic
+* **Database:** data structuring and organization
+
+### 📂 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### O que estou estudando
-- Modelagem de dados avançada (normalização, relacionamentos)
-- Queries complexas (JOINs, agregações, subqueries)
-- Fundamentos de lógica e automações com Python
+### 📦 SQL_Practice
+Practical exercises focused on SQL queries, filters, ordering, and data analysis.
+
+[View Repository](https://github.com/BrunoFreireDev/SQL_Practice)
 
 </td>
 <td width="50%" valign="top">
 
-### Objetivo Profissional
-Atuar na área de dados, aplicando boas práticas de modelagem, consultas estruturadas e análise para gerar valor real a partir de informações.
+### 🏢 database_comercio
+Complete database modeling simulating real-world scenarios, including creating tables, relationships (FKs), inserts, and analytical structure.
+
+[View Repository](https://github.com/BrunoFreireDev/database_comercio)
 
 </td>
 </tr>
 </table>
+
+### 🧠 Technologies and Tools
+* MySQL, SQL Server, Firebird, SQL, Python (evolving)
+* Git & GitHub, VS Code, WampServer, dbdiagram.io, BR Model
+* Systems/ERPs: Solpen, Promob, Protheus, ERP2
+
+### 📚 Currently studying
+* Data modeling (normalization, relationships)
+* Advanced queries (JOINs, aggregations, subqueries)
+* Logic with Python
+
+### 📈 Objective
+Work in the data area, applying good modeling and analysis practices to generate value from information.
 
 ---
 
