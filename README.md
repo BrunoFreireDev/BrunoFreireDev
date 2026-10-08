@@ -26,6 +26,14 @@ Atualmente desenvolvendo habilidades práticas em:
 ### 📂 Projetos em Destaque
 
 <table>
+<td width="50%" valign="top">
+
+### 🏢 Automação_de_Atendimento
+Sistema de automação de fluxos conversacionais e gerenciamento de Ordens de Serviço (OS) integrado via webhooks, unindo mensageria omnichannel e banco de dados Firebird a fluxos n8n.
+
+[Ver Repositório](https://github.com/BrunoFreireDev/database_comercio)
+
+</td>
 <tr>
 <td width="50%" valign="top">
 
