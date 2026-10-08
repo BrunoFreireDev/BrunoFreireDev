@@ -39,7 +39,7 @@ Conteúdo de curso de informática básica criado por mim para ensinar meus fami
 ### 🏢 Automação_de_Atendimento
 Sistema de automação de fluxos conversacionais e gerenciamento de Ordens de Serviço (OS) integrado via webhooks, unindo mensageria omnichannel e banco de dados Firebird a fluxos n8n.
 
-[Ver Repositório](https://github.com/BrunoFreireDev/database_comercio)
+[Ver Repositório](https://github.com/BrunoFreireDev/automacao_de_atendimento)
 
 </td>
 <tr>
