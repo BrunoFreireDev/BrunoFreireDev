@@ -16,13 +16,6 @@
 
 ---
 
-## 🇧🇷 Português
-
-Atualmente desenvolvendo habilidades práticas em:
-* **SQL:** modelagem, consultas, análise de dados
-* **Python:** lógica de programação
-* **Banco de Dados:** estruturação e organização de dados
-
 ### 📂 Projetos em Destaque
 
 <table>
