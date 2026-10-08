@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,55:0f172a,100:020617&height=200&section=header&text=Bruno%20Freire%20Silva&fontSize=46&fontColor=38bdf8&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=900&color=38bdf8&center=true&vCenter=true&width=700&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Foco+em+SQL,+Banco+de+Dados+e+Dados;Transformando+dados+em+insights+e+solu%C3%A7%C3%B5es"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=900&color=38bdf8&center=true&vCenter=true&width=700&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Foco+em+SQL,+Banco+de+Dados;Firebird+|+SQLServer+|+MySQL"/>
 
 <br>
 
