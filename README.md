@@ -41,6 +41,7 @@ Sistema de automação de fluxos conversacionais e gerenciamento de Ordens de Se
 ### SQL_Practice
 Exercícios práticos focados em consultas SQL, filtros, ordenações e análise de dados.
 
+
 [Ver Repositório](https://github.com/BrunoFreireDev/SQL_Practice)
 
 </td>
