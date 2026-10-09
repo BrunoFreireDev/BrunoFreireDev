@@ -16,12 +16,12 @@
 
 ---
 
-### 📂 Projetos em Destaque
+### Projetos em Destaque
 
 <table>
 <td width="50%" valign="top">
 
-### 🏢 Curso_Informatica_Basica
+### Curso_Informatica_Basica
 Conteúdo de curso de informática básica criado por mim para ensinar meus familiares, criei como um projeto para levar informação e conhecimento aqueles que precisam se atualizar ao mundo de hoje.
 
 [Ver Repositório](https://github.com/BrunoFreireDev/curso_informatica_basica)
@@ -29,7 +29,7 @@ Conteúdo de curso de informática básica criado por mim para ensinar meus fami
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Automação_de_Atendimento
+### Automação_de_Atendimento
 Sistema de automação de fluxos conversacionais e gerenciamento de Ordens de Serviço (OS) integrado via webhooks, unindo mensageria omnichannel e banco de dados Firebird a fluxos n8n.
 
 [Ver Repositório](https://github.com/BrunoFreireDev/automacao_de_atendimento)
@@ -38,7 +38,7 @@ Sistema de automação de fluxos conversacionais e gerenciamento de Ordens de Se
 <tr>
 <td width="50%" valign="top">
 
-### 📦 SQL_Practice
+### SQL_Practice
 Exercícios práticos focados em consultas SQL, filtros, ordenações e análise de dados.
 
 [Ver Repositório](https://github.com/BrunoFreireDev/SQL_Practice)
@@ -46,7 +46,7 @@ Exercícios práticos focados em consultas SQL, filtros, ordenações e análise
 </td>
 <td width="50%" valign="top">
 
-### 🏢 database_comercio
+### database_comercio
 Modelagem completa de banco de dados simulando cenários reais, incluindo criação de tabelas, relacionamentos (FKs), inserts e estrutura analítica.
 
 [Ver Repositório](https://github.com/BrunoFreireDev/database_comercio)
@@ -55,7 +55,7 @@ Modelagem completa de banco de dados simulando cenários reais, incluindo criaç
 </tr>
 </table>
 
-### 🧠 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mysql,py,git,github,vscode,docker&theme=dark"/>
@@ -69,12 +69,12 @@ Modelagem completa de banco de dados simulando cenários reais, incluindo criaç
   * Protheus (Estoque)
   * ERP2 (Administrativo, Financeiro, CRM, Faturamento, Frente de Caixa – suporte técnico ativo)
 
-### 📚 Atualmente estudando
+### Atualmente estudando
 * Modelagem de dados (normalização, relacionamentos)
 * Queries avançadas (JOINs, agregações, subqueries)
 * Fundamentos de lógica com Python
 
-### 📈 Objetivo
+### Objetivo
 Atuar na área de dados, aplicando boas práticas de modelagem e análise para gerar valor a partir de informações.
 
 ---
@@ -87,13 +87,13 @@ Currently developing practical skills in:
 * **Python:** logic
 * **Database:** data structuring and organization
 
-### 📂 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📦 SQL_Practice
+### SQL_Practice
 Practical exercises focused on SQL queries, filters, ordering, and data analysis.
 
 [View Repository](https://github.com/BrunoFreireDev/SQL_Practice)
@@ -101,7 +101,7 @@ Practical exercises focused on SQL queries, filters, ordering, and data analysis
 </td>
 <td width="50%" valign="top">
 
-### 🏢 database_comercio
+### database_comercio
 Complete database modeling simulating real-world scenarios, including creating tables, relationships (FKs), inserts, and analytical structure.
 
 [View Repository](https://github.com/BrunoFreireDev/database_comercio)
@@ -110,17 +110,17 @@ Complete database modeling simulating real-world scenarios, including creating t
 </tr>
 </table>
 
-### 🧠 Technologies and Tools
+### Technologies and Tools
 * MySQL, SQL Server, Firebird, SQL, Python (evolving)
 * Git & GitHub, VS Code, WampServer, dbdiagram.io, BR Model
 * Systems/ERPs: Solpen, Promob, Protheus, ERP2
 
-### 📚 Currently studying
+### Currently studying
 * Data modeling (normalization, relationships)
 * Advanced queries (JOINs, aggregations, subqueries)
 * Logic with Python
 
-### 📈 Objective
+### Objective
 Work in the data area, applying good modeling and analysis practices to generate value from information.
 
 ---
