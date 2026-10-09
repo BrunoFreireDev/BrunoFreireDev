@@ -21,7 +21,7 @@
 <table>
 <td width="50%" valign="top">
 
-### Curso_Informatica_Basica
+### Curso Informática Básica
 Conteúdo de curso de informática básica criado por mim para ensinar meus familiares, criei como um projeto para levar informação e conhecimento aqueles que precisam se atualizar ao mundo de hoje.
 
 [Ver Repositório](https://github.com/BrunoFreireDev/curso_informatica_basica)
@@ -29,7 +29,7 @@ Conteúdo de curso de informática básica criado por mim para ensinar meus fami
 </td>
 <td width="50%" valign="top">
 
-### Automação_de_Atendimento
+### Automação de Atendimento
 Sistema de automação de fluxos conversacionais e gerenciamento de Ordens de Serviço (OS) integrado via webhooks, unindo mensageria omnichannel e banco de dados Firebird a fluxos n8n.
 
 [Ver Repositório](https://github.com/BrunoFreireDev/automacao_de_atendimento)
@@ -38,7 +38,7 @@ Sistema de automação de fluxos conversacionais e gerenciamento de Ordens de Se
 <tr>
 <td width="50%" valign="top">
 
-### SQL_Practice
+### Exercícios de SQL (MySQL)
 Exercícios práticos focados em consultas SQL, filtros, ordenações e análise de dados.
 
 
@@ -47,7 +47,7 @@ Exercícios práticos focados em consultas SQL, filtros, ordenações e análise
 </td>
 <td width="50%" valign="top">
 
-### database_comercio
+### Modelagem de Banco de Dados
 Modelagem completa de banco de dados simulando cenários reais, incluindo criação de tabelas, relacionamentos (FKs), inserts e estrutura analítica.
 
 [Ver Repositório](https://github.com/BrunoFreireDev/database_comercio)
